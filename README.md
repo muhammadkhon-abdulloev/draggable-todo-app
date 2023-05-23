@@ -1,5 +1,5 @@
 # Small draggable task manager
-> Hello, stranger! :wave: Welcome to my GitHub page. This is my first React based application. Here is some instructions for installing and running this project on your computer usin npm or yarnHello, stranger! :tw-1f44b: Welcome to my GitHub page. This is my first React based application. Here is some instructions for installing and running this project on your computer using **npm**:
+> Hello, stranger! :wave: Welcome to my GitHub page. This is my first React based application. Here is some instructions for installing and running this project on your computer using **npm**:
 
 
 ### First you need to run this command in command line:
